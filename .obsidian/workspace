@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1576fcf158d09bd7",
+        "id": "17b0baaa963867d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1576fcf158d09bd7",
+  "active": "17b0baaa963867d8",
   "lastOpenFiles": [
     "测试obsidian git插件.md",
     "未命名.md"
