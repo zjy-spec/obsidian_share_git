@@ -16,4 +16,13 @@
 //注释：提交代码到暂存区
 
 ##### 6、git remote add origin url
-//注释：关联到远程版本库
+//注释：关联到远程版本库，origin：obsidian库名，url：git@github.com:zjy-spec/obsidian_share_git.git
+
+##### 7、git push origin master
+//注释：推送到远程版本库，origin：obsidian库名
+
+##### 8、git tag -a '版本' -m '描述'
+//注释：打标签
+
+##### 9、git push --tags
+//注释：提交标签
