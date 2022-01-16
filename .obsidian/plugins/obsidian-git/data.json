@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "git branch --set-upstream-to=obsidian_share_git/master  master",
+  "gitPath": "git branch --set-upstream-to=obsidian_share_git/master",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true
