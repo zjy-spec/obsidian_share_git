@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "测试obsidian git插件.md",
+            "file": "测试更新时间.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试obsidian git插件.md",
+                "file": "测试更新时间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "17b0baaa963867d8",
   "lastOpenFiles": [
-    "测试obsidian git插件.md",
-    "测试更新时间.md"
+    "测试更新时间.md",
+    "测试obsidian git插件.md"
   ]
 }
