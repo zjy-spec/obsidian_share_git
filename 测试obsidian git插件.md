@@ -32,3 +32,4 @@
 ##### 10、git branch --set-upstream-to=origin/remote_branch  local_branch
 //注释：本地分支关联远程分支，origin：obsidian库名，remote_branch：远程分支名，local_branch：本地分支名
 
+分支'master'被设置为跟踪来自'obsidian_share_git'的远程分支'master'。
